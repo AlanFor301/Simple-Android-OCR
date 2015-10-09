@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="tess-two">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/tess-two" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/tess-two/gen" />
+      <root url="file://$PROJECT_DIR$/lib/tess-two/jni/com_googlecode_tesseract_android/src/java" />
+      <root url="file://$PROJECT_DIR$/lib/tess-two/src" />
+    </SOURCES>
+  </library>
+</component>
